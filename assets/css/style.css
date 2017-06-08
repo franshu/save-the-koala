@@ -1,0 +1,49 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+.bienvenida{
+    background: url("../img/portada.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.navbar-inverse{
+    background-color: transparent;
+    border: none;
+}
+
+.navbar-inverse .navbar-nav>li>a,
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default{
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+.contenido-bienv{
+    padding: 150px 0;
+    color: white;
+}
+
+.btn-verde{
+    background-color: #41521F;
+    color: white;
+    font-weight: bolder;
+}
+
+/*seccion 2*/
+.papahijo{
+    background: url("../assets/img/tres.jpg");
+
+}
+
+.contenido-secc02{
+    color: #A89F68;
+    padding-top: 100px;
+}
