@@ -1,6 +1,6 @@
 /*
 wood brown: A89F68;
-army green: 41521F;
+army green: ;
 */
 .bienvenida{
     background: url("../img/portada.jpg");
@@ -46,4 +46,8 @@ army green: 41521F;
 .contenido-secc02{
     color: #A89F68;
     padding-top: 100px;
+}
+
+#fundation .caja-texto h2{
+    color: #41521F;
 }
